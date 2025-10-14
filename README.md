@@ -11,7 +11,7 @@ This project was developed by a group of five Computer Science students
 | NAME| REGISTARTION NUMBER |
 |------|----------|
 | FRANCIS MWIGA | CT101/G/22131/24 |
-| PAUL MUNGAI |  | CT101/G/23420/24 |
+| PAUL MUNGAI | CT101/G/23420/24 |
 | JOEL |  |
 | MATIVO |  |
 | BETTY |  |
